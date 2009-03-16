@@ -1,0 +1,9 @@
+#Mon Mar 16 01:50:58 JST 2009
+DaoType=S2Dao
+DefaultResourcePath=/airmail_client/src/main/resources
+DefaultRootPackage=airmail_client
+DefaultSrcPath=/airmail_client/src/main/java
+ServletPath=airmail_client
+ViewType=None
+WebContentsRoot=src/main/webapp
+eclipse.preferences.version=1
