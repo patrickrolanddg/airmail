@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/geronimo-servlet_2.4_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit-3.8.2.jar" sourcepath="lib/sources/junit-3.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/junit-addons-1.4.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/backport-util-concurrent-3.1.jar" sourcepath="src/main/webapp/WEB-INF/lib/sources/backport-util-concurrent-3.1-sources.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/blazeds-common-3.0.0.544.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/blazeds-core-3.0.0.544.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/blazeds-opt-3.0.0.544.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/blazeds-proxy-3.0.0.544.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/blazeds-remoting-3.0.0.544.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-codec-1.3.jar" sourcepath="src/main/webapp/WEB-INF/lib/sources/commons-codec-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-logging-1.1.jar" sourcepath="src/main/webapp/WEB-INF/lib/sources/commons-logging-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/concurrent-1.3.4.jar" sourcepath="src/main/webapp/WEB-INF/lib/sources/concurrent-1.3.4-sources.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/geronimo-ejb_3.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/geronimo-jta_1.1_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/h2-1.0.69.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/javassist-3.4.ga.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/log4j-1.2.13.jar" sourcepath="src/main/webapp/WEB-INF/lib/sources/log4j-1.2.13-sources.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/ognl-2.6.9-patch-20070908.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/poi-3.0-FINAL.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/s2-dao-1.0.49.jar" sourcepath="src/main/webapp/WEB-INF/lib/sources/s2-dao-1.0.49-sources.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/s2-dao-tiger-1.0.49.jar" sourcepath="src/main/webapp/WEB-INF/lib/sources/s2-dao-tiger-1.0.49-sources.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/s2-extension-2.4.34.jar" sourcepath="src/main/webapp/WEB-INF/lib/sources/s2-extension-2.4.34-sources.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/s2-framework-2.4.34.jar" sourcepath="src/main/webapp/WEB-INF/lib/sources/s2-framework-2.4.34-sources.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/s2-tiger-2.4.34.jar" sourcepath="src/main/webapp/WEB-INF/lib/sources/s2-tiger-2.4.34-sources.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/s2blazeds-1.0.0.jar" sourcepath="src/main/webapp/WEB-INF/lib/sources/s2blazeds-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/xalan-2.7.0.jar" sourcepath="src/main/webapp/WEB-INF/lib/sources/xalan-2.7.0-sources.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/servlet-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/jasper.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/jsp-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/el-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-email-1.1.jar" sourcepath="src/main/webapp/WEB-INF/lib/commons-email-1.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/airmail_client/src/main/webapp/WEB-INF/lib/javadoc/commons-email-1.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/mail.jar"/>
+	<classpathentry kind="output" path="src/main/webapp/WEB-INF/classes"/>
+</classpath>
