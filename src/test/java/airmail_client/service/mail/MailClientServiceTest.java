@@ -2,9 +2,9 @@ package airmail_client.service.mail;
 
 import org.seasar.extension.unit.S2TestCase;
 
-public class MailSendServiceTest extends S2TestCase 
+public class MailClientServiceTest extends S2TestCase 
 {
-	public MailSendService service;
+	public MailClientService service;
 	
 
 	@Override
