@@ -1,9 +1,9 @@
 package airmail_client.service.mail.impl;
 
-import airmail_client.service.mail.MailSendService;
+import airmail_client.service.mail.MailClientService;
 
 
-public class MailSendServiceImpl implements MailSendService {
+public class MailClientServiceImpl implements MailClientService {
 
 	@Override
 	public void send() 

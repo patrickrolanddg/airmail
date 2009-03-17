@@ -1,6 +1,6 @@
 package airmail_client.service.mail;
 
-public interface MailSendService 
+public interface MailClientService 
 {
 	void send();
 }
